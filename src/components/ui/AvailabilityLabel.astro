@@ -1,0 +1,28 @@
+---
+
+type Status = 0 | 1 | 2;
+
+type StatusInfo = {
+    color: string;
+    text: string;
+};
+
+type Props = {
+    status: Status;
+}
+
+const statusInfo: Record<Status, StatusInfo> = {
+    0: { color: 'bg-neutral', text: 'UNAVAILABLE' },
+    1: { color: 'bg-success', text: 'AVAILABLE' },
+    2: { color: 'bg-warning', text: 'BUILDING & OPEN TO OPPORTUNITIES' },
+};
+
+const { status } = Astro.props as Props;
+const info = statusInfo[status] ?? statusInfo[0];
+
+---
+
+<div class="flex items-center gap-2">
+    <div class={`w-2 aspect-square rounded-full ${info.color}`} />
+    <p class="text-xs font-light tracking-wider">{info.text}</p>
+</div>

@@ -27,11 +27,11 @@ Personally, I think this portfolio should be cinematic. I've seen quite a lot of
 So, what sections are included in our portfolio? Simply put:
 
 1. Hero Section
-2. Core Value
+2. Core Value (Mission)
 3. About Me
 4. Skill Tree
 5. Top 3 Projects
-6. Ping me!
+6. Ping me! (Connect)
 
 We'll have a **Title Screen** as hero section. Let's take note of the *default* eye scan for most people, that is top-down left-right. With that, we can think of the elements that composes the Hero Section.
 

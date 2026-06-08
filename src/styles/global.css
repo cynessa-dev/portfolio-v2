@@ -7,3 +7,12 @@
     --color-warning: var(--color-yellow-500);
     --color-error: var(--color-red-500);
 }
+
+.material-symbols-rounded {
+    user-select: none;
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+}

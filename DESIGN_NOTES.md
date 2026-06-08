@@ -27,7 +27,7 @@ Personally, I think this portfolio should be cinematic. I've seen quite a lot of
 So, what sections are included in our portfolio? Simply put:
 
 1. Hero Section
-2. Core Value (Mission)
+2. Mission
 3. About Me
 4. Skill Tree
 5. Top 3 Projects

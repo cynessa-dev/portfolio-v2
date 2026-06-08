@@ -27,7 +27,7 @@ Personally, I think this portfolio should be cinematic. I've seen quite a lot of
 So, what sections are included in our portfolio? Simply put:
 
 1. Hero Section
-2. Mission
+2. Mindset
 3. About Me
 4. Skill Tree
 5. Top 3 Projects
@@ -55,3 +55,12 @@ Chano: *Building software beyond functionality.*
 
 \
 Simple as that. Then I would add a Status + Time for availability and Menu at the bottom. Why bottom, well, the navigation is not that important, is it? With that, let's start making the barebones!
+
+\
+## MINDSET SECTION
+
+After the barebones of Hero Section, let's start with the Mindset Section! Previously known as Values, then Mission, then Mindset. I know there are clear distinction between the 3, but I prefer `MINDSET`, so recruiters know how I think. This will give them a quick sneak peak on how I work with stuffs, and my philosophy that fuels my motivation.
+
+**Software is more than a tool. It is a spark that turns ideas into experiences, so let's make every BIT count.**
+
+That will be my `MINDSET`. I'll leave the interpretations to the readers, but that's that.

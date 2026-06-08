@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Bytesized&display=swap');
 @import "tailwindcss";
 
 @theme {
@@ -15,4 +16,10 @@
     'wght' 400,
     'GRAD' 0,
     'opsz' 24
+}
+
+.bytesized {
+  font-family: "Bytesized", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }

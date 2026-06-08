@@ -4,7 +4,19 @@ See the journey of me and Houston as we build project Mamplata! This will serve 
 
 ---
 
-## Onboard the Astro Spacecraft | June 5, 2026 | 20:38
+## The Hero has arrived! | June 08, 2026 | 14:00
+
+Hello, again! Today's report is the finished *initial* layout for the Hero section, along with the Header and Menu bar.
+
+The Header contains a brand name, availability status, and local PH time indicator in 24-hour format. The Header is designed to assist clients and recruiters to understand my current situation, in the professional world, and decide for collaboration. I might take it down at some point, but for now, it stays.
+
+The Menu bar is the navigation bar for the portfolio. It is designed to be similar to a directory or terminal with the `./` prefix or starting characters. Functional, but not expected to work properly as most of the sections are still missing.
+
+The Hero section simply contains a tagline and title, with my name on the brand name. This answers the question `"Who is this?"`. `"What does he do?"`, and `"Why should they care?"` questions that grasp clients and recruiters attention. As long as I managed to pique their interest, my hero section does its job.
+
+That's pretty much the current situation of the portfolio, I'll be back for more updates! See yah! >_</~
+
+## Onboard the Astro Spacecraft | June 05, 2026 | 20:38
 
 *Initialized Project: Mamplata...*
 *Spacecraft ready to launch.*

@@ -4,6 +4,24 @@ Version logs where you can see what was changed, fixed, new, etc. In simple word
 
 ---
 
+## v0.1.0
+
+*June 08, 2026 - 13:55*
+
+The **Hero** has arrived!
+
+\
+**WHAT'S NEW?**
+
+- Added `Header` component for branding, availability status, and local PH time to help recruiters and client decide.
+- Added `Menu` component as main navigation tool for the portfolio. Contains all sections to navigate to in a directory-style format for theme and aesthetic.
+- Initial layout and look for the hero section.
+
+**NOTES:**
+
+- `Borgar Icon` is a temporary placeholder for the menu icon.
+- In this stage, we arre priotizing to make it exist first.
+
 ## v0.0.1
 
 *June 05, 2026 - 20:56*

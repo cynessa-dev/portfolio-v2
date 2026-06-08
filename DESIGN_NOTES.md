@@ -56,8 +56,7 @@ Chano: *Building software beyond functionality.*
 \
 Simple as that. Then I would add a Status + Time for availability and Menu at the bottom. Why bottom, well, the navigation is not that important, is it? With that, let's start making the barebones!
 
-\
-## MINDSET SECTION
+### MINDSET SECTION
 
 After the barebones of Hero Section, let's start with the Mindset Section! Previously known as Values, then Mission, then Mindset. I know there are clear distinction between the 3, but I prefer `MINDSET`, so recruiters know how I think. This will give them a quick sneak peak on how I work with stuffs, and my philosophy that fuels my motivation.
 

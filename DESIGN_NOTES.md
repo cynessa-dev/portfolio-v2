@@ -1,81 +1,337 @@
 # DESIGN NOTES
 
-Just some sketchy place where I dump ideas. Take note that this place will be messy and will just serve as my personal notes, not as documentation (I think this count as one though lol).
+A collection of ideas, concepts, and direction for the portfolio.
+
+This is not meant to be for documentation (although it technically is one).
+
+Its purpose is to preserve the vision behind the project and serve as a compass whenever development becomes messy. So, Enjoy! ~\^_^/~
 
 ---
 
 ## REFERENCES
 
-Here are some references I use when developing cool stuffs!
+Useful resources and inspirations.
 
-- [Laws of UX](https://lawsofux.com/)
+* [Laws of UX](https://lawsofux.com/)
+* Jakob's Law
 
-## NOTES
+---
 
-We should start with creating an actual portfolio website. According to [Jakob's Law](https://lawsofux.com/jakobs-law/), **user expects your stuff works the same way as others.** So, our first solution is to make a standard, but cool portfolio website.
+## CORE THEME
 
-Here's the idea...
+### BEYOND THE SCREEN
 
-We start with our theme!
+A portfolio that invites visitors beyond software and into the world of the person creating it.
 
-< **BEYOND THE SCREEN** >
+Most portfolios showcase technologies.
 
-I believe that this theme explains my whole stuff. I love disecting things and focusing on details that others think are too small, *even a single pixel in a screen is noticeable when against the others, but together makes a beautiful canvas.*
+This portfolio showcases:
 
-Personally, I think this portfolio should be cinematic. I've seen quite a lot of portfolio, and what stands out the most is the feeling they invoke. By cinematic, I mean to invoke feelings that I meant to share to others.
+* The person
+* The mindset
+* The craft
+* The work
 
-So, what sections are included in our portfolio? Simply put:
+Software is not merely presented as code.
 
-1. Hero Section
-2. Mindset
-3. About Me
-4. Skill Tree
-5. Top 3 Projects
-6. Ping me! (Connect)
+Software is presented as a medium that transforms ideas into experiences.
 
-We'll have a **Title Screen** as hero section. Let's take note of the *default* eye scan for most people, that is top-down left-right. With that, we can think of the elements that composes the Hero Section.
+---
+
+## DESIGN PHILOSOPHY
+
+### Make Every BIT Count
+
+> Software is more than a tool. It is a spark that turns ideas into experiences, so let's make every BIT count.
+
+This statement represents the philosophy behind the portfolio.
+
+It is not intended to be fully explained.
+
+It exists to give visitors a glimpse into how I think. Which means, I leave the interpration to you!
+
+---
+
+## EXPERIENCE GOALS
+
+The portfolio should feel:
+
+### Cinematic
+
+The experience should feel like a journey rather than a collection of sections.
+
+Every transition should feel intentional.
+
+### Immersive
+
+The visitor should feel like they are gradually entering my world.
+
+Not through complexity, but through storytelling.
+
+### Familiar
+
+Following Jakob's Law:
+
+Visitors still expect a portfolio to behave like a portfolio.
+
+Creativity should improve usability, not replace it.
+
+The experience should be memorable, not confusing.
+
+---
+
+## PORTFOLIO NARRATIVE
+
+The portfolio is structured as a journey.
+
+The visitor begins at the screen.
+
+The visitor ends inside my personal space.
+
+---
+
+## ACT I - THE TITLE SCREEN
 
 ### HERO SECTION
 
-This is the first section that the users see, so within **3 seconds**, they must know:
+The first thing visitors see.
 
-1. Who I am.
-2. What I do.
-3. Why should they care.
+Within 3 seconds, they should understand:
 
-There should be a name, title, and unique stand. Those are the most essential information that recruiters look at. If you fail to hook them up within 3 seconds, you loss.
+1. Who am I?
+2. What do I do?
+3. Why should they care?
 
-Simply do,
+Example:
 
-Chano: *I am Christian Mamplata.*
+Christian Mamplata
 
-Chano: *A Builder of Interactive Experiences.*
+Builder of Interactive Experiences
 
-Chano: *Building software beyond functionality.*
+Building software beyond functionality.
 
-\
-Simple as that. Then I would add a Status + Time for availability and Menu at the bottom. Why bottom, well, the navigation is not that important, is it? With that, let's start making the barebones!
+Additional elements:
+
+* Current availability
+* Local time
+* Navigation
+
+The goal is clarity.
+
+Nothing else matters if the visitor leaves immediately.
+
+---
+
+## ACT II - THE MINDSET
 
 ### MINDSET SECTION
 
-After the barebones of Hero Section, let's start with the Mindset Section! Previously known as Values, then Mission, then Mindset. I know there are clear distinction between the 3, but I prefer `MINDSET`, so recruiters know how I think. This will give them a quick sneak peak on how I work with stuffs, and my philosophy that fuels my motivation.
+Before explaining what I can do, explain how I think.
 
-**Software is more than a tool. It is a spark that turns ideas into experiences, so let's make every BIT count.**
+This section introduces my philosophy.
 
-That will be my `MINDSET`. I'll leave the interpretations to the readers, but that's that.
+Software is more than a tool.
 
-### ABOUT_ME SECTION
+It is a spark that transforms ideas into experiences.
 
-As for this section, I plan to split it up to answer 3 questions.
+The objective is not to persuade.
+
+The objective is to provide insight.
+
+---
+
+## ACT III - THE PERSON
+
+### ABOUT ME
+
+This section answers:
 
 1. Who am I?
 2. What is my background?
 3. What are my values?
 
-Take note that this questions must be answered briefly, so every detail matters. Users doesn't really read, therefore information must be bite-size. Now, the question is:
+Keep responses concise.
 
-> How can we present the answers in a creative way?
+Visitors scan.
 
-Let me brainstorm for a bit...
+Information should be easy to digest.
 
-Hmm... You know what? Let's just lay down the bricks, before the paint.
+The goal is understanding, not autobiography.
+
+---
+
+## ACT IV - ENTERING MY WORLD
+
+After the About section, the portfolio transitions into a more personal and immersive experience.
+
+Potential concept:
+
+A stylized representation of myself appears.
+
+As the visitor scrolls:
+
+* The character walks
+* A door opens
+* The camera moves forward
+
+The visitor is invited beyond the screen and into my personal space.
+
+This transition serves as the bridge between who I am and what I create.
+
+---
+
+## ACT V - THE CRAFT
+
+### CAPABILITIES
+
+Answer two questions:
+
+* What can this person do?
+* What can this person do for me?
+
+Focus on capabilities first.
+
+Technologies second.
+
+Example:
+
+### Web Development
+
+Build modern web applications and interactive experiences.
+
+Tools:
+
+* Astro
+* React
+* Next.js
+* Tailwind CSS
+
+### Game Development
+
+Create interactive systems and gameplay experiences.
+
+Tools:
+
+* Godot
+* Aseprite
+
+The technology exists to support the capability.
+
+Not the other way around.
+
+---
+
+## ACT VI - THE BOOKSHELF
+
+### FEATURED PROJECTS
+
+Projects are represented as books.
+
+Each book tells a story.
+
+The bookshelf acts as evidence for all previous claims.
+
+Potential flow:
+
+Visitor explores shelf.
+
+Selecting a book reveals:
+
+* Problem
+* Solution
+* Process
+* Outcome
+
+Projects should feel like stories rather than case studies.
+
+---
+
+## ACT VII - THE DESK
+
+### CONTACT
+
+The final destination.
+
+The visitor reaches my workspace.
+
+On the desk:
+
+* Contact information
+* Social links
+* Resume
+* Business card
+
+The journey concludes with a clear next action.
+
+---
+
+## VISUAL DIRECTION
+
+### What This Portfolio Is NOT
+
+* Generic SaaS website
+* Hacker terminal simulator
+* RPG game
+* Technology showcase
+
+## What This Portfolio IS
+
+* A creative developer portfolio
+* A cinematic experience
+* A personal workspace
+* A story-driven journey
+
+---
+
+## ART DIRECTION
+
+Current direction:
+
+Developer Workstation
+
+The visitor is not browsing a website.
+
+The visitor is exploring a space.
+
+Potential elements:
+
+* Parallax
+* Zoom transitions
+* Subtle animations
+* Interactive objects
+* Environmental storytelling
+
+**Avoid unnecessary complexity.**
+
+---
+
+## TECHNICAL REMINDER
+
+DO NOT START WITH 3D.
+
+Version 1 should prioritize:
+
+* Content
+* Layout
+* Storytelling
+* Scroll experience
+
+Only consider 3D after the experience works in 2D.
+
+A beautiful 2D experience is better than a broken 3D experience. Remember that~
+
+---
+
+## NORTH STAR
+
+Whenever a design decision becomes difficult, ask:
+
+"Does this help the visitor go beyond the screen?"
+
+    If yes, it belongs.
+
+    If no, it is probably decoration.
+
+Mental stuff. Normally, I would let this note be messy as the current situation here in the Philippines, but even I hate it! XD
+
+So, once the idea are all done, I re-organized it with the help of ChatGPT and confirming that the ideas and directions are preserved.

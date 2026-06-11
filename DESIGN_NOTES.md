@@ -63,3 +63,19 @@ After the barebones of Hero Section, let's start with the Mindset Section! Previ
 **Software is more than a tool. It is a spark that turns ideas into experiences, so let's make every BIT count.**
 
 That will be my `MINDSET`. I'll leave the interpretations to the readers, but that's that.
+
+### ABOUT_ME SECTION
+
+As for this section, I plan to split it up to answer 3 questions.
+
+1. Who am I?
+2. What is my background?
+3. What are my values?
+
+Take note that this questions must be answered briefly, so every detail matters. Users doesn't really read, therefore information must be bite-size. Now, the question is:
+
+> How can we present the answers in a creative way?
+
+Let me brainstorm for a bit...
+
+Hmm... You know what? Let's just lay down the bricks, before the paint.

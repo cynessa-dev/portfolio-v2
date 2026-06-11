@@ -4,6 +4,24 @@ Version logs where you can see what was changed, fixed, new, etc. In simple word
 
 ---
 
+## v0.2.0
+
+*June 11, 2026 - 15:38*
+
+Who am I?
+
+\
+**WHAT'S NEW?**
+
+- Added `Mindset` section for my personal philisophy to help recruiters and clients for goal alignment.
+- Added `AboutMe` section for professional details about me/
+- Added **Google Font Icons** for a temporary icon set.
+- `Borgar Icon` is now replaced with an actual `Menu Icon`.
+
+**NOTES:**
+
+- Do note that I am prioritizing content over style and layout. I'm having a headache right now, but we gotta progress somehow.
+
 ## v0.1.0
 
 *June 08, 2026 - 13:55*
